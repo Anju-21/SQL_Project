@@ -8,5 +8,6 @@ Analysis Summary:
   6. A large number of employees work at Headquarters than Remotely.
   7. White Race is the most dominent and Native Hawaiian is least dominent.
   8. In Gender Distribution across Departments there are generally more Male than Female.
-  9. 
+  9. Auditing Department has the highest and Marketing has the lowest termination rate.
+  10. A large number of employees come from the state of Ohio.
     
